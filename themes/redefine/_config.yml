@@ -170,7 +170,7 @@ home_banner:
     style: default # default, reverse, center
     # Social links
     links:
-      github:  https://github.com/tomcomtang # your GitHub URL
+      github:  https://github.com/EvanNotFound/hexo-theme-redefine # your GitHub URL
       instagram: # your Instagram URL
       zhihu:  # your ZhiHu URL
       twitter:  https://x.com/TencentCloudEO # your twitter URL
@@ -206,7 +206,7 @@ navbar:
       path: /archives 
       icon: fa-regular fa-archive # can be empty
     Github: 
-      path: https://github.com/tomcomtang
+      path: https://github.com/EvanNotFound/hexo-theme-redefine
       icon: fa-brands fa-github
       # submenus:
       #   Link1: /link1
