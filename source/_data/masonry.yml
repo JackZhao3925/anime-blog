@@ -1,31 +1,31 @@
-- image: http://localhost:4000/images/1.jpg
+- image: /images/1.jpg
   title: Image title 1
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod
 
-- image: http://localhost:4000/images/2.jpg
+- image: /images/2.jpg
   title: Lorem ipsum 2
   description: Lorem ipsum dolor sit amet
 
-- image: http://localhost:4000/images/3.jpg
+- image: /images/3.jpg
   title: Lorem ipsum 3
   description: Lorem ipsum dolor sit amet
 
-- image: http://localhost:4000/images/4.jpg
+- image: /images/4.jpg
   title: Lorem ipsum 4
   description: Lorem ipsum dolor sit amet
 
-- image: http://localhost:4000/images/5.webp
+- image: /images/5.webp
   title: Lorem ipsum 5
   description: Lorem ipsum dolor sit amet
 
-- image: http://localhost:4000/images/6.jpg
+- image: /images/6.jpg
   title: Lorem ipsum 6
   description: Lorem ipsum dolor sit amet
 
-- image: http://localhost:4000/images/7.png
+- image: /images/7.png
   title: Lorem ipsum 7
   description: Lorem ipsum dolor sit amet
 
-- image: http://localhost:4000/images/8.jpg
+- image: /images/8.jpg
   title: Lorem ipsum 8
   description: Lorem ipsum dolor sit amet
