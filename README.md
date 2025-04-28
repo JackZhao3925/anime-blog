@@ -10,7 +10,7 @@ A personal blog template specifically designed for anime enthusiasts, built with
 
 You can quickly deploy this template to EdgeOne Pages with just one click:
 
-[![Deploy to EdgeOne](https://camo.githubusercontent.com/6a94a67f6a020d5810ef905549fc5255bf99ccd09f17881b6855b332b579a364/68747470733a2f2f63646e7374617469632e74656e63656e7463732e636f6d2f656467656f6e652f70616765732f6465706c6f792e737667)](https://edgeone.ai/pages/new?template=anime-blog-demo1)
+[![Deploy to EdgeOne](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?template=anime-blog-demo1)
 
 [More Templates](https://edgeone.ai/pages/templates)
 
