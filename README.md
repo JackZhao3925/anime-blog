@@ -10,7 +10,7 @@ A personal blog template specifically designed for anime enthusiasts, built with
 
 You can quickly deploy this template to EdgeOne Pages with just one click:
 
-[![Deploy to EdgeOne](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?template=anime-blog-demo1)
+[![Deploy to EdgeOne](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?template=anime-blog-demo1&install-command=yarn%2dinstall&build-command=npm%2drun%2dbuild)
 
 [More Templates](https://edgeone.ai/pages/templates)
 
