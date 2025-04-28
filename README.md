@@ -166,11 +166,6 @@ Pull requests are welcome to improve this project. Before submitting, please ens
 
 This project is licensed under [MIT](LICENSE).
 
-## 🙏 Acknowledgments
-
-- [hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine) - Theme design reference
-- All developers who have contributed to this project
-
 ## 📞 Contact
 
 For questions or suggestions, please contact us through:
