@@ -23,9 +23,9 @@ pretty_urls:
 # Directory
 source_dir: source
 public_dir: public
-tag_dir: tags
-archive_dir: archives
-category_dir: categories
+# tag_dir: tags
+# archive_dir: archives
+# category_dir: 
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: redefine
+theme: defaultone
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
