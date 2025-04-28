@@ -6,11 +6,11 @@ A personal blog template specifically designed for anime enthusiasts, built with
 ![Node Version](https://img.shields.io/badge/node-%3E%3D16.0.0-brightgreen.svg)
 ![Yarn Version](https://img.shields.io/badge/yarn-%3E%3D1.22.0-blue.svg)
 
-## 🚀 Quick Deployment
+## 🚀 Deploy
 
 You can quickly deploy this template to EdgeOne Pages with just one click:
 
-[![Deploy to EdgeOne](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?template=anime-blog-demo1&install-command=yarn%2dinstall&build-command=npm%2drun%2dbuild)
+[![Deploy to EdgeOne](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/anime-blog-demo1&output-directory=./public&build-command=npm%20run%20build)
 
 [More Templates](https://edgeone.ai/pages/templates)
 
@@ -40,7 +40,7 @@ This project is intended for **private deployment only**. For commercial use, pl
 
 1. Clone the project
 ```bash
-git clone https://github.com/TencentEdgeOne/pages-templates/examples/anime-blog-demo1.git
+git clone https://github.com/tomcomtang/anime-blog-demo1.git
 cd anime-blog-demo1
 ```
 
