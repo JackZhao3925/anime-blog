@@ -10,7 +10,7 @@
 
 你可以通过一键点击快速部署到 EdgeOne Pages：
 
-[![Deploy to EdgeOne](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?template=anime-blog-demo1)
+[![Deploy to EdgeOne](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://console.cloud.tencent.com/edgeone/pages/new?template=anime-blog-demo1)
 
 [更多模板](https://edgeone.ai/pages/templates)
 
