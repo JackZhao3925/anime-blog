@@ -1,23 +1,27 @@
 # Anime Blog Template
 
-A personal blog template specifically designed for anime enthusiasts, built with modern frontend technology stack. This project inherits design concepts from [hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine), providing anime culture enthusiasts with a beautiful and practical blog solution. It features interactive Live2D character animations and dynamic particle background effects using particles.js, creating an immersive anime-style experience.
+A personal blog template specifically designed for anime enthusiasts, built with modern frontend technology stack. It features interactive Live2D character animations and dynamic particle background effects using particles.js, creating an immersive anime-style experience. This project provides anime culture enthusiasts with a beautiful and practical blog solution.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Node Version](https://img.shields.io/badge/node-%3E%3D16.0.0-brightgreen.svg)
 ![Yarn Version](https://img.shields.io/badge/yarn-%3E%3D1.22.0-blue.svg)
 
+## 🚀 Quick Deployment
+
+You can quickly deploy this template to EdgeOne Pages with just one click:
+
+[![Deploy to EdgeOne](https://camo.githubusercontent.com/6a94a67f6a020d5810ef905549fc5255bf99ccd09f17881b6855b332b579a364/68747470733a2f2f63646e7374617469632e74656e63656e7463732e636f6d2f656467656f6e652f70616765732f6465706c6f792e737667)](https://edgeone.ai/pages/new?template=anime-blog-demo1)
+
+[More Templates](https://edgeone.ai/pages/templates)
+
 ## ✨ Features
 
-- 🎨 Carefully designed anime-style UI, perfectly matching ACG culture
-- 📱 Responsive design, supporting various devices
-- 🚀 Built with modern frontend technology stack, excellent performance
-- 📝 Markdown writing support, similar content management to Hexo
-- 🎯 Built-in SEO optimization, improving search engine rankings
-- 🌈 Rich theme customization options
-- 💬 Support for multiple comment systems (Gitalk, Valine)
-- 📊 Built-in visitor statistics
-- 🎭 Interactive Live2D character animations
-- ✨ Dynamic particle background effects using particles.js
+- 🎨 Anime-style UI with Live2D character animations
+- ✨ Dynamic particle background effects
+- 📱 Responsive design for all devices
+- 📝 Markdown-based content management
+- 🎯 SEO optimized
+- 💬 Multiple comment system support
 
 ## ⚠️ Important Notice
 
@@ -36,8 +40,8 @@ This project is intended for **private deployment only**. For commercial use, pl
 
 1. Clone the project
 ```bash
-git clone https://github.com/your-username/anime-blog-template.git
-cd anime-blog-template
+git clone https://github.com/TencentEdgeOne/pages-templates/examples/anime-blog-demo1.git
+cd anime-blog-demo1
 ```
 
 2. Install dependencies
@@ -65,11 +69,6 @@ Create Markdown files in the `source/_posts` directory using the following forma
 ---
 title: Post Title
 date: 2024-03-21 12:00:00
-tags:
-  - tag1
-  - tag2
-categories:
-  - category1
 ---
 
 Post content...
@@ -110,8 +109,6 @@ menu:
     path: /
   - name: Archives
     path: /archives
-  - name: Tags
-    path: /tags
   - name: About
     path: /about
 ```
@@ -180,3 +177,12 @@ For questions or suggestions, please contact us through:
 
 - Submit an Issue
 - Send email to: tomcomtang@gmail.com
+
+## 📚 References
+
+This project is inspired by and uses resources from the following projects:
+
+- [hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine) - A beautiful and feature-rich Hexo theme
+- [Live2D Widget](https://github.com/stevenjoezhang/live2d-widget) - A web platform Live2D widget
+
+If you like this project, please consider giving a star to these amazing projects that made this possible!
