@@ -6,7 +6,7 @@
 ![Node Version](https://img.shields.io/badge/node-%3E%3D16.0.0-brightgreen.svg)
 ![Yarn Version](https://img.shields.io/badge/yarn-%3E%3D1.22.0-blue.svg)
 
-## 🚀 快速部署
+## 🚀 部署
 
 你可以通过一键点击快速部署到 EdgeOne Pages：
 
