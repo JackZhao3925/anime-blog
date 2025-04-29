@@ -162,17 +162,6 @@ Pull requests are welcome to improve this project. Before submitting, please ens
 2. Add necessary tests
 3. Update relevant documentation
 
-## 📄 License
-
-This project is licensed under [MIT](LICENSE).
-
-## 📞 Contact
-
-For questions or suggestions, please contact us through:
-
-- Submit an Issue
-- Send email to: tomcomtang@gmail.com
-
 ## 📚 References
 
 This project is inspired by and uses resources from the following projects:
