@@ -159,11 +159,11 @@ home_banner:
     style: default # default, reverse, center
     # Social links
     links:
-      github:  https://github.com/EvanNotFound/hexo-theme-redefine # your GitHub URL
+      github:  https://github.com/JackZhao3925 # your GitHub URL
       instagram: # your Instagram URL
       zhihu:  # your ZhiHu URL
       # twitter:  https://x.com/TencentCloudEO # your twitter URL
-      email:  # your email
+      email:  jackzhao3925@163.com # your email
       # ...... # you can add more
     # Social links with QRcode drawers
     qrs:
