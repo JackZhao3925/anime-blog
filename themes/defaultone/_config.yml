@@ -6,7 +6,7 @@ info:
   # Author name
   author: Jack
   # Site URL
-  url: https://your-domain.com
+  url: https://blog.pullar.cn
 # BASIC INFORMATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -195,7 +195,7 @@ navbar:
       path: /archives 
       icon: fa-regular fa-archive # can be empty
     Github: 
-      path: https://github.com/EvanNotFound
+      path: https://github.com/JackZhao3925
       icon: fa-brands fa-github
       # submenus:
       #   Link1: /link1
@@ -215,7 +215,7 @@ navbar:
       icon: fa-solid fa-circle-info
       # submenus:
       #   Me: /about
-      #   Github: https://github.com/EvanNotFound/hexo-theme-redefine
+      #   Github: https://github.com/JackZhao3925
       #   Blog: https://ohevan.com
       #   Friends: /friends
     # ...... # you can add more
